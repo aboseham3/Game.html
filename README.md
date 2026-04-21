@@ -1,2 +1,2 @@
-# Game.html
-Quiz
+# calculator.html
+Coding by: Sami Alsayed 
